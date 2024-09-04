@@ -1,0 +1,51 @@
+commit 966971af574763f03b4790955935760cd7482bf2
+Merge: 1ac5a38 d08c563
+Author: Bryan Gonzalez <BryGeo10@gmail.com>
+Date:   Tue Sep 3 23:29:07 2024 -0700
+
+    Merge conflict resolved for main and index-fix branches.
+
+commit d08c563f48ce70567b8c0b054f6a18e75d3223e1
+Author: Bryan Gonzalez <BryGeo10@gmail.com>
+Date:   Tue Sep 3 23:25:24 2024 -0700
+
+    Added new div with favorite movie in index.html
+
+commit 1ac5a38e17a858f44596a5e745f7298b83aa72b2
+Author: Bryan Gonzalez <BryGeo10@gmail.com>
+Date:   Tue Sep 3 23:22:50 2024 -0700
+
+    Added new div with favorite food in index.html
+
+commit 85c8ffc75197667920175ca7acd312070d7d1e29
+Author: Bryan Gonzalez <BryGeo10@gmail.com>
+Date:   Tue Sep 3 23:12:38 2024 -0700
+
+    Added a README file
+
+commit 1217cf5164c3f64b8b431acc233468dce2269959
+Author: Bryan Gonzalez <BryGeo10@gmail.com>
+Date:   Tue Sep 3 23:00:49 2024 -0700
+
+    Added a README file
+
+commit 71d8a6a664e78b880da34ed92db33ca826880657
+Merge: 1d2bfc0 1427173
+Author: BGeo10 <BryGeo10@gmail.com>
+Date:   Tue Sep 3 22:54:05 2024 -0700
+
+    Merge pull request #1 from BGeo10/info-fill
+    
+    Filled in the two blanks within the index.html file
+
+commit 14271730091c5f7c883cb0e2403104f50005e46d
+Author: Bryan Gonzalez <BryGeo10@gmail.com>
+Date:   Tue Sep 3 22:40:32 2024 -0700
+
+    Filled in the two blanks within the index.html file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
